@@ -84,7 +84,7 @@ We aim to split each lab session into two parts:
 
   - **Phase 1** (~60 minutes): In this part we will give you input. This includes all the points mentioned above. Whether you run the code simultaneously on your computer or not is completely up to you -- but its absolutely fine to simply listen and watch without doing any coding. You are welcome to interrupt us at any time if you have questions or feel like the pace is too high.
   
-  - **Phase 2** (~30 minutes): Now it's your turn! In this phase you will work on exercises that are similar to the stuff discussed in phase 1. This is all about you trying things out, doing mistakes, trying again, and succeed. Within this phase we will distribute you into breakout rooms or you will just work with your neighbors in class. You can talk to your (virtual) neighbors if you have any problems or, if things are easy for you, to explain the stuff you learned to others. We will be around as well and try to solve problems and difficulties that come up. Please do not hesitate at all to make use of that.
+  - **Phase 2** (~30 minutes): Now it's your turn! In this phase you will work on exercises that are similar to the stuff discussed in phase 1. This is all about you trying things out, doing mistakes, trying again, and succeed. Within this phase you will work together with your neighbours. You can talk to them if you have any problems or, if things are easy for you, to explain the stuff you learned to others. We will be around as well and try to solve problems and difficulties that come up. Please do not hesitate at all to make use of that.
 
 
 ### GitHub workflow
@@ -128,12 +128,12 @@ Although the homework assignments should push you towards your limits, they are 
 
 1. **Talk to your group members and classmates**. Everybody has strengths and weaknesses, good and bad days. This class is a collective learning enterprise and team work is highly encouraged.
 2. **Post your question on Slack**. Use it to ask questions and share materials with your fellow students. We encourage you to use it, and we will monitor it daily during weekdays.
-3. **Come to our office hours**. We both have 90 minutes reserved for AQM questions, Oliver on [Mondays 16:00 to 17.30](https://calendly.com/orittman/aqm), Viktoriia on [Tuesdays 15:30 to 17:00](https://calendly.com/vsemenova/aqm). Until further notice from the University, office hours have to take place via Zoom. You can come to either one of us, regardless of which lab you attended that week. To avoid waiting, please schedule an appointment via Calendly 6 hours in advance. If you already have specific questions you want to ask, include them already so that we can plan and prepare for your questions ahead of time. If neither of Monday nor Tuesday work for you at all, slack us and we can make an appointment.
+3. **Come to our office hours**. We both have 90 minutes reserved for AQM questions, Oliver on [Mondays 16:00 to 17.30](https://calendly.com/orittman/aqm), Dom on [Tuesdays 15:30 to 17:00](https://calendly.com/undzenas-qm/dom-s-aqm-office-hours). You can come to either one of us, regardless of which lab you attended that week. To avoid waiting, please schedule an appointment via Calendly 6 hours in advance. If you already have specific questions you want to ask, include them already so that we can plan and prepare for your questions ahead of time. If neither of Monday nor Tuesday work for you at all, slack us and we can make an appointment.
 4. **Talk to Thomas Gschwend**. We would recommend that you use this option as a last resort. For example, if we are unable to answer your questions. Mostly, you should use Thomas Gschwend's office hours to discuss your final paper ideas and lecture questions.
 
 ### Homework Groups
 
-You are free to form your own homework groups and work together for the entire semester. Please start organizing your homework group after today's session (if you haven't already). If you formed a group, DM on Slack one of tutors with your names, preferably **by Monday (February 21) morning**. If you do not find a group on your own, DM one of us by Monday as well and we will try to figure it out for you. You can also shortly summarise your research interests, so we can try to find a well-fitting group for you.
+You are free to form your own homework groups and work together for the entire semester. Please start organizing your homework group after today's session (if you haven't already). If you formed a group, DM on Slack one of tutors with your names, preferably **by Monday (February 20) morning**. If you do not find a group on your own, DM one of us by Monday as well and we will try to figure it out for you. You can also shortly summarise your research interests, so we can try to find a well-fitting group for you.
 
 Homework assignments will be distributed via GitHub after the lecture on Wednesdays. Assignments are due by the following Tuesday, 23:59. You can find all the dates on the course website, e.g. here: https://aqm2023.netlify.app/material/02-week/. 
 
@@ -155,6 +155,10 @@ Your term paper may seem far away now, but we strongly (!!!) recommend to start 
     + Read those papers thoroughly, especially the methods and analysis section.
     + You certainly do not have to come up with a concrete research idea this week. But starting to read early will help you to connect the contents of this course to the research in your field and ultimately come up with your own idea.
     + Good ideas need some time to grow in your mind.
+  + Make sure you have the (replication) data for your articles.
+    + Sometimes the most interesting papers in your field will not have open access to their data.
+    + Worse yet, some authors will not give you the replication data if you email them.
+    + Before starting your term paper, make sure you have all of the data you will need.
 
 
 ## Mental Health
@@ -447,10 +451,11 @@ vector %*% M
 Grab a pen and paper and do the following calculation:
 
 $$
+
 \begin{pmatrix} 3 & 2 & 1\end{pmatrix}
 \times 
 \begin{pmatrix} 1 & 2 & 3 \\ 1 & 2 & 3 \\ 1 & 2 & 3 \end{pmatrix}
-=
+
 
 $$
 
