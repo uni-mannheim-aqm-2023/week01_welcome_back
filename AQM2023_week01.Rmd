@@ -135,7 +135,7 @@ Although the homework assignments should push you towards your limits, they are 
 
 You are free to form your own homework groups and work together for the entire semester. Please start organizing your homework group after today's session (if you haven't already). If you formed a group, DM on Slack one of tutors with your names, preferably **by Monday (February 20) morning**. If you do not find a group on your own, DM one of us by Monday as well and we will try to figure it out for you. You can also shortly summarise your research interests, so we can try to find a well-fitting group for you.
 
-Homework assignments will be distributed via GitHub after the lecture on Wednesdays. Assignments are due by the following Tuesday, 23:59. You can find all the dates on the course website, e.g. here: https://aqm2023.netlify.app/material/02-week/. 
+Homework assignments will be distributed via GitHub after the lecture on Wednesdays. Assignments are due by the following Wednesday, 23:59. You can find all the dates on the course website, e.g. here: https://aqm2023.netlify.app/material/02-week/. 
 
 ### Your homework submissions
 
