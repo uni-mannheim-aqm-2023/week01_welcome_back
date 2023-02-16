@@ -5,11 +5,11 @@ author:
   - "Domantas Undzėnas"
 date: "February 16, 2023"
 output:
-  html_notebook:
+  html_document:
     toc: true
     toc_float: true
     css: css/lab.css
-  html_document:
+  html_notebook:
     toc: true
     toc_float: true
     css: css/lab.css
@@ -161,7 +161,7 @@ Your term paper may seem far away now, but we strongly (!!!) recommend to start 
 
 ## Mental Health
 
-This is a challenging course in a challenging time. It is also an elective course, so we expect a high level of commitment towards the learning goals of the course. However, the pandemic still puts a significant strain on all of us and, of course, also affects our performance capacity. For that reason, we would like to emphasize some points:
+This is a challenging course in a challenging time. It is also an elective course, so we expect a high level of commitment towards the learning goals of the course. However, there may be various reasons that put a significant strain on us and, of course, also affects our performance capacity. For that reason, we would like to emphasize some points:
 
 -   This course should be up high on your priority list, but **your health--physical and mental--definitely has highest priority**.
 -   Our goal is that you learn as much as possible. We won't achieve this goal if your mental health suffers under this course. We will have an open ear and try to find individual solutions if you think that this is nevertheless the case.
@@ -285,7 +285,7 @@ summary(df)
 
 So much for the setup. Now it's time for some R.
 
-I assume that you are familiar with basic R commands. That means, you know what the term "object-orientation" means, know how to make assignments, you are familiar with basic data structures such as scalar, vector, matrix, array, list, data frame. You know how to select elements from these objects and how to load and manipulate data.
+I assume that you are familiar with basic R commands. That means, you know what "objects" are, know how to make assignments, you are familiar with basic data structures such as scalar, vector, matrix, array, list, data frame. You know how to select elements from these objects and how to load and manipulate data.
 
 In the last course you also gained some experience in writing your own functions. As a refresher, this section gives you a short overview.
 
