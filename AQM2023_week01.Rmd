@@ -605,16 +605,7 @@ A lab session without an `R` exercise would be boring. So here is your first AQM
 3.  Before you run the function: What will be the dimensions of the output?
 
 ```{r Exercise I, eval = FALSE}
-n <- 10
-k <- 5
-y <- matrix(rnorm(n = n, mean = 0, sd = 1),
-            nrow = n,
-            ncol = 1)
-X <- matrix(rnorm(n = n*k, mean = 0, sd = 1),
-            nrow = n,
-            ncol = k)
 
-solve(t(X)%*%X) %*% t(X) %*% y
 ```
 
 Here is how you determine the dimensions of the resulting matrix after matrix multiplication: Let's say you multiply a `n` by `k` matrix with a `k` by `n` matrix. Note that `k` denotes the columns of the first and the rows of the second matrix. If those were not the same, matrix multiplication would not work out. After matrix multiplication, the new matrix has dimensions `n` by `m`. Here is one expression that agives you all the information at once:
